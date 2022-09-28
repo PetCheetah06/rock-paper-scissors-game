@@ -12,6 +12,8 @@ elif human_turn == 'scissors' and computer_turn == 'paper':
 else:
     print('Computer wins!')
 
+    
+    
     import random
 turns = ['rock', 'paper', 'scissors']
 
